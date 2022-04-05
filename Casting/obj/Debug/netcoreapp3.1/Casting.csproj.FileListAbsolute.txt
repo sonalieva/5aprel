@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\PortableGit\BP202\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
